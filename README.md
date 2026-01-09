@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZaidKazi.ZaidKazi" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zaid+Kazi!;Computer+Engineering+Student+%40+UofG;Software+%7C+Systems+%7C+Digital+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There;+I'm+Zaid+Kazi!;Computer+Engineering+Student+%40+UofG;Software+%7C+Systems+%7C+Digital+Design" />
 </h1>
 
 <!-- Animated Gradient Divider -->
