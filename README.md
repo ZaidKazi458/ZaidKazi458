@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ZaidKazi.ZaidKazi" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There;+I'm+Zaid+Kazi!;Computer+Engineering+Student+%40+UofG;Software+%7C+Systems+%7C+Digital+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=750&height=70&duration=4000&lines=Hi+There;+I'm+Zaid+Kazi;Computer+Engineering+Student+%40+UofG;Hardware+%7C+Systems+%7C+Software" />
 </h1>
 
 <!-- Animated Gradient Divider -->
@@ -10,16 +10,16 @@
 </div>
 
 <h3 align="center">🎓 Computer Engineering Student @ University of Guelph</h3>
-<h4 align="center">🚀 Aspiring Software & Systems Engineer</h4>
+<h4 align="center">🚀 Aspiring Hardware & Software Engineer</h4>
 
 <br/>
 
 <div align="left">
 
-🌱 Building reliable, efficient, and well-structured software  
-💡 Strong interest in **software development, digital systems, and low-level logic**  
-🧠 Enjoy learning how hardware and software interact **under the hood**  
-⚡ Fun fact: I love debugging — especially when logic *finally* clicks  
+🌱 Interested in building **reliable, efficient, and well-structured systems**  
+💡 Strong focus on **digital logic, computer architecture, and software development**  
+🧠 Enjoy working close to the hardware — from **VHDL & FPGA design** to higher-level applications  
+⚡ Fun fact: I genuinely enjoy waveform debugging and hardware verification  
 
 </div>
 
@@ -29,15 +29,15 @@
 
 <div align="left">
 
-🔢 <b>Digital Counter Display</b>  
-Designed a <b>sequential logic circuit</b> using JK flip-flops and multiplexers to iterate through a student ID, with stable timing logic and a 7-segment display output.  
-<b>Tech:</b> JK Flip-Flops, Multiplexers, Multisim, Digital Logic
+🧮 <b>4-Bit ALU Design & FPGA Implementation</b>  
+Designed, implemented, and tested a <b>4-bit ALU</b> in VHDL using structural and hierarchical modeling. Verified correctness via simulation and waveform analysis, then deployed the design on a <b>Nexys 3 FPGA</b> with output displayed on a 7-segment display.  
+<b>Tech:</b> VHDL, FPGA, Nexys 3, Digital Logic, GTKWave
 
 <br/>
 
 🏫 <b>University Management System</b>  
-Developed a <b>desktop administration application</b> with secure role-based access control, course enrollment conflict detection, and clean OOP-based architecture.  
-<b>Tech:</b> Java, JavaFX, OOP, RBAC, Git
+Developed a <b>desktop administration application</b> for faculty and course management using OOP principles. Implemented secure role-based access control (RBAC) and engineered conflict-detection logic to enforce course capacity limits.  
+<b>Tech:</b> Java, JavaFX, HTML, OOP, Git
 
 </div>
 
@@ -48,7 +48,7 @@ Developed a <b>desktop administration application</b> with secure role-based acc
 <table align="center">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">💻 Languages</h3>
+      <h3 align="center">💻 Programming</h3>
       <ul>
         <li>C</li>
         <li>C++</li>
@@ -77,6 +77,8 @@ Developed a <b>desktop administration application</b> with secure role-based acc
         <li>IntelliJ</li>
         <li>Vivado</li>
         <li>Xilinx ISE</li>
+        <li>SolidWorks</li>
+        <li>AutoCAD</li>
       </ul>
     </td>
   </tr>
@@ -84,7 +86,7 @@ Developed a <b>desktop administration application</b> with secure role-based acc
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,html,nodejs,react,git,github,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,html,git,github,linux,vscode,idea" />
 </div>
 
 ---
@@ -92,7 +94,7 @@ Developed a <b>desktop administration application</b> with secure role-based acc
 <h2 align="center">📚 Currently Learning</h2>
 
 <div align="center">
-Data Structures & Algorithms • Computer Architecture • Digital Systems (VHDL) • System-Level Programming
+Computer Architecture • Digital Systems (VHDL) • Data Structures & Algorithms • FPGA Design & Verification
 </div>
 
 ---
@@ -111,12 +113,16 @@ Data Structures & Algorithms • Computer Architecture • Digital Systems (VHDL
   <a href="https://github.com/ZaidKazi458" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://zaidkaziportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-555555?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-<h2 align="center">💬 Quotes I Live By</h2>
+<h2 align="center">💬 What Drives Me</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inconsolata&pause=5000&size=18&color=00BFFF&center=true&vCenter=true&width=800&lines=%22Learn+deeply.+Build+intentionally.%22;%22Good+engineering+starts+with+clear+logic.%22;%22Simple.+Correct.+Scalable.%22" />
+Curious about how technology works at every layer — from transistors and logic gates to software systems and user-facing applications. Always open to learning, collaboration, and hands-on problem solving.
 </div>
